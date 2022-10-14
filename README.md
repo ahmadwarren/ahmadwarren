@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ahmadwarren
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in fullstack
+- 🌱 I’m currently learning web3 
+- 💞️ I’m looking to collaborate with you
+
+-just contact me 😎
 
 <!---
 ahmadwarren/ahmadwarren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
