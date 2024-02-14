@@ -32,12 +32,8 @@ We've made three sites web ,two of them were made for Churches and the other one
   </script>
 </code>
 
-<style></style> -->
- 
- _________________________
-For now ,i'm working on web 3 and trying to grow in high frequence problem solving. 
+<style></style>
 
-<!---
 ahmadwarren/ahmadwarren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
