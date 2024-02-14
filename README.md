@@ -7,8 +7,6 @@ I started coding in 2020,and since i knew basics of web programming (html,css,ja
 <!-- I used to work with a team of two other collegues of HOPE AFRICA UNIVERSITY .
 We've made three sites web ,two of them were made for Churches and the other one was for an  enterprise. -->
 ### visit <a href="HTTPS://doutos.com">doutos.com</a>
-                             
-   ==============================================================================================================================
                                                                                                                 
                                        \\\\\\\\\                                                           \\\\
                                       \\\     \\\                                                          \\\\
