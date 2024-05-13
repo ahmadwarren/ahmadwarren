@@ -42,11 +42,12 @@ body{
 }
 .card-avatar .img.zoom{
     position:absolute;
-    width: 90%;
-    height: 100vh;
     overflow : scroll;
+    width: 100%;
+    height: auto;
     top:0;
     left:0;
+    right: 0;
     animation: zoomIn 1s forwards;
 }
 @keyframes zoomIn {
@@ -82,10 +83,19 @@ body{
     padding: 20px;
 }
 .card-details h4{
-    color: var(--white-transparent);
+    color:#b6b4b45e;
     
 }
-
+.card-details p{
+    color: var(--white-transparent);
+    font-size: 12px;
+    width: 100%;
+    background: var(--bg-transparent);
+    margin: 5px auto;
+}
+.card-details p a{
+    color: var(--white-transparent);
+}
 @media (max-width:400px) {
     .hero{
         display: block;
